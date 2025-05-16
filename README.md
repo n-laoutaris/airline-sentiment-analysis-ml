@@ -6,7 +6,7 @@ This project analyzes public sentiment toward US airlines using a variety of mac
 
 We explore how different vectorization techniques and classifiers perform in predicting tweet sentiment. The dataset is publicly available on Kaggle and contains tweets manually labeled as positive, negative, or neutral.
 
-![Project Visualization](./images/sample_output.png)
+![Project Visualization](./images/sample-output.png)
 
 Key features:
 - Preprocessing pipeline using `TfidfVectorizer`

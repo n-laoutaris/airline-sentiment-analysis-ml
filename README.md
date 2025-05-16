@@ -8,7 +8,11 @@ We explore how different vectorization techniques and classifiers perform in pre
 
 ![Project Visualization](./images/sample-output.png)
 
-Key features:
+## Project context 
+
+This work was conducted as a collaborative team effort for the Machine learning class of the Master’s program in Data Science at the International Hellenic University.
+
+## Key features
 - Preprocessing pipeline using `TfidfVectorizer`
 - Cross-validation to prevent data leakage
 - Multiple classifiers including Logistic Regression, SVM, Random Forest, and MLP

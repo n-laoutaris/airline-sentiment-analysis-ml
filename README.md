@@ -1,6 +1,6 @@
 # Airline Tweet Sentiment Analysis
 
-This project analyzes public sentiment toward US airlines using a variety of machine learning models. It was developed as a team submission for the Machine Learning course in the MSc in Data Science program at International Hellenic University.
+This project analyzes public sentiment toward US airlines using a variety of machine learning models.
 
 ## Overview
 

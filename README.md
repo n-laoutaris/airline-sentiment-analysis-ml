@@ -15,8 +15,8 @@ This work was conducted as a collaborative team effort for the Machine learning 
 ## Key features
 - Preprocessing pipeline using `TfidfVectorizer`
 - Cross-validation to prevent data leakage
-- Multiple classifiers including Logistic Regression, SVM, Random Forest, and MLP
-- Evaluation based on accuracy, F1-score, and training time
+- Multiple classifiers including Logistic Regression, SVM, Random Forest, MLP
+- Evaluation based on accuracy, F1-score as well as training time
 - Hyperparameter tuning with `GridSearchCV`
 - Visual performance comparison across models
 
